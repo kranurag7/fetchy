@@ -1,6 +1,6 @@
 [package]
 name = "fetchy"
-version = "0.1.5"
+version = "0.1.9"
 description = "A small command line system information tool"
 license-file = "LICENSE"
 edition = "2021"
